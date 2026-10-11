@@ -1,0 +1,33 @@
+{
+  "manifest_version": "1.0",
+  "org": "certifi",
+  "repo": "erlang-certifi",
+  "versions": [
+    {
+      "commit": "36e47cba36c8cdfa2d81246c864161d4710a6c92",
+      "parsed_at": "2026-10-11T21:08:35.023289+00:00",
+      "tag": "2.17.0",
+      "filetree": "filetree/36e47cba36c8cdfa2d81246c864161d4710a6c92.nq.gz",
+      "blobs": [
+        "blob/9cb7f6eef7b1c7900db6462777b7ec1cbdccf8d5.nq.gz",
+        "blob/57afcca04590ff2bbf2f83b8eac4f856df782c74.nq.gz",
+        "blob/c052788771a24843a7cb4c9a06978fcb8140f773.nq.gz",
+        "blob/667297d8ef83b22b0ccef96b6c7e77cc52d3172c.nq.gz",
+        "blob/d865692761d3e17ad719f68edaca16726a3faef1.nq.gz",
+        "blob/a9336dafb0d34c4a1e6cffb84d470e7dd874e6c3.nq.gz",
+        "blob/3a707dbc43824bdf41a33d82e8eb83db0e282535.nq.gz",
+        "blob/d112c489681e6881391f6b0adcefb05644a6dfad.nq.gz",
+        "blob/431b9418516da775cbf7e752cac9f5ee807e89d5.nq.gz",
+        "blob/3566ecf863ce31dd38e7eea3ca36a788b1153996.nq.gz",
+        "blob/a9ee1744e7315f87f2c76eb70febdf631f1edf4e.nq.gz",
+        "blob/4f06d364c4af0d8fe576cab32a80f2c859637069.nq.gz",
+        "blob/13ad9ad8b091a9c10b8cc73e0ee73dd62ea31a20.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
