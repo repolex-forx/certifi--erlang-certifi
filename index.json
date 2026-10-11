@@ -1,0 +1,11 @@
+{
+  "org": "certifi",
+  "repo": "erlang-certifi",
+  "versions": [
+    {
+      "commit": "36e47cba36c8cdfa2d81246c864161d4710a6c92",
+      "tag": "2.17.0",
+      "parsed_at": "2026-10-11T21:10:49.222158+00:00"
+    }
+  ]
+}
