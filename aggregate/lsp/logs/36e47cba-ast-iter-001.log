@@ -1,0 +1,7 @@
+[2026-10-11T21:09:18Z] === AST ITERATION 1 START | repo=certifi/erlang-certifi sha=36e47cba ===
+[2026-10-11T21:09:18Z] [iter=1] PHASE START: ast repo=certifi/erlang-certifi sha=36e47cba
+[2026-10-11T21:09:18Z] [iter=1] Building AST aggregate chunks
+[2026-10-11T21:09:18Z] [iter=1] AST chunks built count=1 triples=0
+[2026-10-11T21:09:18Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/36e47cba36c8cdfa2d81246c864161d4710a6c92/.complete
+[2026-10-11T21:09:18Z] [iter=1] PHASE END: ast elapsed_s=0 elapsed_min=0.0
+[2026-10-11T21:09:18Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
